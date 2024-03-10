@@ -1,0 +1,6 @@
+pdfplumber
+streamlit
+joblib
+os
+re
+scikit-learn
